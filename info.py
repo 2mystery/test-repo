@@ -1,1 +1,3 @@
-이신비, 202400555, 컴퓨터공학부
+name = "leeshinbi"
+student_id = "202400555"
+department = "Computer Science and Engineering"
